@@ -1,6 +1,7 @@
+streamlit
 pandas
 requests
-streamlit
 python-dotenv
 lxml
 html5lib
+altair
